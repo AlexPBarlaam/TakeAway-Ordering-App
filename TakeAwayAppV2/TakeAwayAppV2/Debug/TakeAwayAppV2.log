@@ -1,0 +1,19 @@
+﻿  Item.cpp
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Item.cpp(12,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Item.cpp(21,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Item.cpp(28,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Menu.cpp(35,47): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Menu.cpp(37,50): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Menu.cpp(39,53): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Menu.cpp(41,49): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Menu.cpp(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Menu.cpp(45,52): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Menu.cpp(47,55): warning C4305: 'argument': truncation from 'double' to 'float'
+  Order.cpp
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Order.cpp(26,19): warning C4018: '<': signed/unsigned mismatch
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Order.cpp(38,16): warning C4305: '-=': truncation from 'double' to 'float'
+G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\TakeAwayAppV2\Order.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+  TakeAwayAppV2.cpp
+  Generating Code...
+  TakeAwayAppV2.vcxproj -> G:\University Of Lincoln\2nd Year\Advanced Programming\Assignment\GitHub\TakeAway-Ordering-App\TakeAwayAppV2\Debug\TakeAwayAppV2.exe
